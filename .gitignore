@@ -1,0 +1,36 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Logs/
+Obj/
+Build/
+UserSettings/
+
+# ================ #
+# Visual Studio/Idea #
+# ================ #
+ExportedObj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
